@@ -1,4 +1,4 @@
-Chapter3 exercise 8 from Introduction to Software Testing(second edition) book.
+Chapter 3 exercise 8 from Introduction to Software Testing(second edition) book.
 
 Develop a set of data-driven JUnit tests for the Min program. These tests should be for normal, not exceptional, returns. Make your @Parameters method produce both String and Integer values.
 
